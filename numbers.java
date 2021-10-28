@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Printer;
 import java.util.TreeMap;
 import java.util.TreeSet;
-
+//show results grate 
 public class SimpleWordCounter {
     
     public static void main(String[] args) {
